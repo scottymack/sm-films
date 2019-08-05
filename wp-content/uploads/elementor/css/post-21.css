@@ -1,3 +1,5 @@
+.elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-container {min-height: 400px;}
+.elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-container:after {content: "";min-height: inherit;}
 .elementor-21 .elementor-element.elementor-element-3aac96f:not(.elementor-motion-effects-element-type-background), .elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://scottymack.github.io/sm-films/wp-content/uploads/2019/08/Eclipse_master-1.jpg");background-repeat: no-repeat;background-size: cover;}
 .elementor-21 .elementor-element.elementor-element-3aac96f {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -30,7 +32,9 @@
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-vg__play i.uael-vg__play-icon {font-size: 45px;line-height: 45px;height: 45px;width: 45px;}
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-vg__play img.uael-vg__play-image {width: 45px;}
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-vg__play {width: 45px;}}
-@media (max-width:767px) {.elementor-21 .elementor-element.elementor-element-93e830c .uael-vgallery-tabs-dropdown .uael-filters-dropdown {text-align: center;}
+@media (max-width:767px) {.elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-container {min-height: 200px;}
+	.elementor-21 .elementor-element.elementor-element-3aac96f > .elementor-container:after {content: "";min-height: inherit;}
+	.elementor-21 .elementor-element.elementor-element-93e830c .uael-vgallery-tabs-dropdown .uael-filters-dropdown {text-align: center;}
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-video__content i, .elementor-21 .elementor-element.elementor-element-93e830c .uael-video__content .uael-vg__play {font-size: 35px;line-height: 35px;height: 35px;width: 35px;}
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-video__content img.uael-vg__play-image, .elementor-21 .elementor-element.elementor-element-93e830c .uael-video__content .uael-vg__play {width: 35px;}
 	.elementor-21 .elementor-element.elementor-element-93e830c .uael-vg__play i.uael-vg__play-icon {font-size: 35px;line-height: 35px;height: 35px;width: 35px;}
